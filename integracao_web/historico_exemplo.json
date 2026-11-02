@@ -1,0 +1,34 @@
+{
+  "versao_schema": 1,
+  "projeto": "JOVI MATH",
+  "exportado_em": "2026-10-20T10:00:00-03:00",
+  "registros": [
+    {
+      "id": "exemplo-camera-001",
+      "expressao": "(5+3)*2",
+      "resultado_exato": "16",
+      "resultado_formatado": "16",
+      "origem": "camera",
+      "data_hora": "2026-10-20T09:57:00-03:00",
+      "explicacao": null
+    },
+    {
+      "id": "exemplo-imagem-002",
+      "expressao": "2-5",
+      "resultado_exato": "-3",
+      "resultado_formatado": "-3",
+      "origem": "imagem",
+      "data_hora": "2026-10-20T09:58:00-03:00",
+      "explicacao": null
+    },
+    {
+      "id": "exemplo-digitado-003",
+      "expressao": "5/2",
+      "resultado_exato": "5/2",
+      "resultado_formatado": "2.50",
+      "origem": "digitado",
+      "data_hora": "2026-10-20T09:59:00-03:00",
+      "explicacao": "Texto ilustrativo, não retornado pela API: divida 5 por 2 para obter 2,5."
+    }
+  ]
+}

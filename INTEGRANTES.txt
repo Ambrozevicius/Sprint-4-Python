@@ -1,0 +1,7 @@
+JOVI MATH
+Sprint 4 - Computational Thinking with Python
+
+Isaac Ambrozevicius - RM569166
+João Marenov - RM569562
+Thalles Almeida - RM569925
+Murillo Farias - RM569045

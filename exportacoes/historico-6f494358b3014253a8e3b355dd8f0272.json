@@ -1,0 +1,79 @@
+{
+  "versao_schema": 1,
+  "projeto": "JOVI MATH",
+  "exportado_em": "2026-11-02T16:20:03-03:00",
+  "registros": [
+    {
+      "id": "c910ee56-5da0-426b-9fb4-b971f09c64f4",
+      "expressao": "5+5",
+      "resultado_exato": "10",
+      "resultado_formatado": "10",
+      "origem": "digitado",
+      "data_hora": "2026-11-01T22:51:50-03:00",
+      "explicacao": null
+    },
+    {
+      "id": "8237f08e-f269-4bd8-a18a-ebc67e45dcaf",
+      "expressao": "1+1",
+      "resultado_exato": "2",
+      "resultado_formatado": "2",
+      "origem": "digitado",
+      "data_hora": "2026-11-02T16:08:19-03:00",
+      "explicacao": null
+    },
+    {
+      "id": "592d9ea8-834e-49ae-8f3a-9c2b7924e9ef",
+      "expressao": "1+1",
+      "resultado_exato": "2",
+      "resultado_formatado": "2",
+      "origem": "digitado",
+      "data_hora": "2026-11-02T16:09:14-03:00",
+      "explicacao": "Etapa 1: Identificar a operação de soma.\nEtapa 2: Somar os números 1 e 1.\nEtapa 3: Obter o resultado final.\nResultado final: 2"
+    },
+    {
+      "id": "8b976d85-bce4-4f13-aec6-fae3af949eb3",
+      "expressao": "8-3",
+      "resultado_exato": "5",
+      "resultado_formatado": "5",
+      "origem": "camera",
+      "data_hora": "2026-11-02T16:12:42-03:00",
+      "explicacao": null
+    },
+    {
+      "id": "8d798c61-9e6f-43c1-b335-48eb727633eb",
+      "expressao": "8-3",
+      "resultado_exato": "5",
+      "resultado_formatado": "5",
+      "origem": "camera",
+      "data_hora": "2026-11-02T16:13:34-03:00",
+      "explicacao": null
+    },
+    {
+      "id": "dcf7bd58-03f9-41f7-8c11-2dd529b753d8",
+      "expressao": "(5+3)*2",
+      "resultado_exato": "16",
+      "resultado_formatado": "16",
+      "origem": "imagem",
+      "data_hora": "2026-11-02T16:15:24-03:00",
+      "explicacao": "1. Resolver a operação entre parênteses: $5 + 3 = 8$.\n2. Multiplicar o resultado por $2$: $8 \\times 2 = 16$.\nResultado final: 16."
+    },
+    {
+      "id": "a6880095-6c0a-4c22-ae92-53f683f3bdd6",
+      "expressao": "5/2",
+      "resultado_exato": "5/2",
+      "resultado_formatado": "2.50",
+      "origem": "digitado",
+      "data_hora": "2026-11-02T16:16:43-03:00",
+      "explicacao": null
+    },
+    {
+      "id": "6659039a-3679-47b5-9ca6-4de53af3c880",
+      "expressao": "(100*4)-8",
+      "resultado_exato": "392",
+      "resultado_formatado": "392",
+      "origem": "digitado",
+      "data_hora": "2026-11-02T16:18:54-03:00",
+      "explicacao": "1. Resolver a multiplicação dentro dos parênteses: 100 * 4 = 400.\n2. Substituir o valor na expressão: 400 - 8.\n3. Subtrair os números: 400 - 8 = 392.\n4. Resultado final: 392."
+    }
+  ]
+}
